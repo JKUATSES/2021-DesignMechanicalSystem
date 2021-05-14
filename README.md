@@ -1,7 +1,7 @@
 # 2021-DesignMechanicalSystem
 This is Design of Mechanical System repo for ses projects weekly meetings during the academic year 2021-2022.
 
-The Mechanical System designed is a Shock Breaker.
+The Mechanical System below is a Shock Breaker designed using Autodesk Inventor.
 
 ## Part 1
 ![Shock Breaker Part 1](Part1.bmp)
