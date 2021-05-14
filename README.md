@@ -15,5 +15,5 @@ The Mechanical System designed is a Shock Breaker.
 ## Part 4
 ![Shock Breaker Part 1](Part4.bmp)
 
-## Assembley Layout
+## Assembly Layout
 ![Shock Breaker Part 1](Assembly.bmp)
