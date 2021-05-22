@@ -10,7 +10,7 @@ This is Design of Mechanical System repo for SES projects weekly meetings during
 ![Shock Breaker Part 1](Part2.bmp)
 
 ## Part 3
-![Shock Breaker Part 1](https://github.com/JKUATSES/2021-DesignMechanicalSystem/blob/main/Shock%20Breaker/Part3.ipt)
+![Shock Breaker Part 1](Part3.bmp)
 
 ## Part 4
 ![Shock Breaker Part 1](Part4.bmp)
