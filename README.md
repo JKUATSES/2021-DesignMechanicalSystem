@@ -18,7 +18,13 @@ This is Design of Mechanical System repo for SES projects weekly meetings during
 ## Assembly Layout
 ![Shock Breaker Part 1](https://github.com/JKUATSES/2021-DesignMechanicalSystem/blob/main/Part%20Images/Assembly1.bmp)
 
-# Stress Analysis of the Mechanical System
+# Stress Analysis Report of the Mechanical System
+
+![Page 1](https://github.com/JKUATSES/2021-DesignMechanicalSystem/blob/main/Stress%20Analysis%20Report%20Document/Page%201.JPG)
+![Page 2](https://github.com/JKUATSES/2021-DesignMechanicalSystem/blob/main/Stress%20Analysis%20Report%20Document/Page%202.JPG)
+![Page 3](https://github.com/JKUATSES/2021-DesignMechanicalSystem/blob/main/Stress%20Analysis%20Report%20Document/Page%203.JPG)
+![Page 4](https://github.com/JKUATSES/2021-DesignMechanicalSystem/blob/main/Stress%20Analysis%20Report%20Document/Page%204.JPG)
+##
 
 # Von Mises Stress
 ![Von Mises Stress](https://github.com/JKUATSES/2021-DesignMechanicalSystem/blob/main/Stress%20Analysis%20Report/Von%20Mises%20Stress.png)
