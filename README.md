@@ -12,8 +12,8 @@ This is Design of Mechanical System repo for SES projects weekly meetings during
 
 ## Free Body Diagram
 ![Free Body Diagram](https://github.com/JKUATSES/2021-DesignMechanicalSystem/blob/main/FBD.png)
-Sprung mass is mass that is suspended by a car’s suspension. This includes the body, chassis, engine, gearbox, seats, passengers, etc.
-The unsprung mass of a vehicle is the mass of the suspension, wheels or tracks, and other components directly connected to them.
+* Sprung mass is mass that is suspended by a car’s suspension. This includes the body, chassis, engine, gearbox, seats, passengers, etc.
+* The unsprung mass of a vehicle is the mass of the suspension, wheels or tracks, and other components directly connected to them.
 
 ## Part 1
 ![Shock Breaker Part 1](https://github.com/JKUATSES/2021-DesignMechanicalSystem/blob/main/Part%20Images/Part1.bmp)
