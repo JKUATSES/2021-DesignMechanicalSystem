@@ -1,7 +1,7 @@
 # 2021-DesignOfMechanicalSystem
 This is Design of Mechanical System repo for SES projects weekly meetings during the academic year 2021-2022.
 
-# Mechanical Design Process:
+# Mechanical Design Process
 * Understand the requirements, i.e. understanding the purpose of design.
 * Analyze and evaluate the Design Mechanism- Shortlist and analyze various possible mechanisms for the machine.
 * Analysis of Forces and Design of Elements- Material analysis and selection.
