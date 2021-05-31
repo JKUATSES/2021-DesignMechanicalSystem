@@ -1,7 +1,17 @@
 # 2021-DesignOfMechanicalSystem
 This is Design of Mechanical System repo for SES projects weekly meetings during the academic year 2021-2022.
 
+## Mechanical Design Process:
+* Understand the requirements, i.e. understanding the purpose of design.
+* Analyze and evaluate the Design Mechanism- Shortlist and analyze various possible mechanisms for the machine.
+* Analysis of Forces and Design of Elements- Material analysis and selection.
+* Creation of detailed Mechanical Drawings- e.g. using software such as Inventor.
+
+
 ## The Mechanical System below is a Shock Breaker designed using Autodesk Inventor.
+
+## Free Body Diagram
+![Free Body Diagram](https://github.com/JKUATSES/2021-DesignMechanicalSystem/blob/main/FBD.png)
 
 ## Part 1
 ![Shock Breaker Part 1](https://github.com/JKUATSES/2021-DesignMechanicalSystem/blob/main/Part%20Images/Part1.bmp)
