@@ -65,6 +65,9 @@ The 3rd principal stress acts normal to the plane in which shear stress is zero.
 # Displacement
 ![Displacement](https://github.com/JKUATSES/2021-DesignMechanicalSystem/blob/main/Stress%20Analysis%20Report/Displacement.png)
 
+## Understanding Displacement
+This shows us by how much our component has been displaced.
+
 # Safety Factor
 ![Safety Factor](https://github.com/JKUATSES/2021-DesignMechanicalSystem/blob/main/Stress%20Analysis%20Report/Safety%20Factor.png)
 
