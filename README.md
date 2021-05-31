@@ -42,7 +42,7 @@ This is Design of Mechanical System repo for SES projects weekly meetings during
 ##
 
 # Von Mises Stress
-![Von Mises Stress](https://github.com/JKUATSES/2021-DesignMechanicalSystem/blob/main/Stress%20Analysis%20Report/Von%20Mises%20Stress%20(Meshed).bmp)
+![Von Mises Stress](https://github.com/JKUATSES/2021-DesignMechanicalSystem/blob/main/Stress%20Analysis%20Report/Von%20Mises%20Stress.png)
 
 ## Understanding Von Mises Stress
 Von Mises stress is a value used to determine if a given material will yield or fracture. It is mostly used for ductile materials, such as metals. The von Mises yield criterion states that if the Von Mises stress of a material under load is equal or greater than the yield limit of the same material under simple tension then the material will yield. Von Mises stress only considers distortion energy (change in shape) and not dilatational energy (change in volume).
